@@ -1,0 +1,44 @@
+#main-section h1, #main-section h4 {
+  text-shadow: 2px 2px #000000;
+}
+#main-section a {
+  color: #b4d1e5;
+  text-shadow: 1px 1px #000000;
+}
+#main-section {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#logo-evento {
+  max-width: 250px;
+}
+
+.img-fl {
+  width: auto;
+  height: 140px;
+  overflow: hidden;
+}
+
+.html {
+  color: #f06529;
+}
+.css {
+  color: #039be5;
+}
+.js {
+  color: #fdda3e;
+}
+.python {
+  color: #ffd435;
+}
+
+.frase-final h3 {
+  color: #ee4035;
+}
+
+.graph {
+  min-width: 100%;
+}
+.graph-fut {
+  min-width: 150%;
+}
